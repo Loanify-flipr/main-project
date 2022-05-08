@@ -1,0 +1,38 @@
+.container{
+    height: 50px;
+    background-color: #E5E5E5;
+    color: black ;
+    display: flex;
+    align-items: center;
+    padding: 0 50px;
+    font-size: 2rem;
+    justify-content: space-between;
+} 
+.listItem{
+    display:inline;
+    margin-right: 30px;
+    font-size: 1rem;
+    color: black;
+    cursor: pointer;
+    font-weight: 500;
+}
+.loginblock{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.loginItem{
+    display: inline;
+    margin: 25px;
+}
+.darkbutton{
+    border:none;
+    background-color: rgba(10, 73, 9, 1) ;
+    color: white ;
+    font-weight: bold;
+    width: 110px;
+    border-radius: 23px;
+    cursor: pointer;
+    padding: 11px;
+    margin: 14px;
+}
