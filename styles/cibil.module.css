@@ -1,0 +1,57 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&family=Poppins:wght@100&family=Raleway:wght@100&display=swap');
+
+.container{
+
+text-align: center;
+width: 400px;
+margin: auto;
+margin-top: 10.5em;
+font-family: 'Poppins', sans-serif;
+}
+.card_container{
+    border: 2px solid green;
+    background-color: #DDDDDD;
+    height:300px;
+    line-height: 2;
+   border-radius: 15px;
+    margin: 10px;
+}
+.color_green{
+    color: #65C77A;
+    margin-top: 1em;
+}
+.md{
+    font-size: 1.2rem;
+}
+.lg{
+    margin: 10px;
+    font-family: ;
+    font-size: 2rem;
+}
+.section{
+    height: 1px;
+    width: 80%;
+    background-color: #65C77A;
+    margin: auto;
+}
+.cibilScore{
+    font-size: 3rem;
+}
+
+.btn{
+    color: rgba(255, 255, 255, 1);
+    background-color: #65C77A;
+    border: none;
+    border-radius: 30px;
+    padding: 3px;
+    margin: 0 55px;
+    font-size: 0.9rem;
+}
+.btn_apply{
+    width:70px;
+    padding: 5px;
+}
+.btn_home{
+padding: 5px;
+}
